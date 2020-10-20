@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0022dc02-ae26-4e6b-9a5c-8daac0dcaa2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/test4_operator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/test3_StandardDataType.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/test3_StandardDataType.py" afterDir="false" />
     </list>
@@ -24,6 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j8TenLThEBweBaQbSaPPovm7Q2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +34,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -40,7 +47,7 @@
       <recent name="$PROJECT_DIR$/study" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test3_StandardDataType">
+  <component name="RunManager" selected="Python.test4_operator">
     <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,8 +114,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test4_operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/test4_operator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test4_operator" />
         <item itemvalue="Python.test3_StandardDataType" />
         <item itemvalue="Python.test2_variable" />
         <item itemvalue="Python.test1" />
@@ -139,7 +169,7 @@
       <updated>1603184816757</updated>
       <workItem from="1603184823192" duration="49000" />
       <workItem from="1603184916449" duration="58000" />
-      <workItem from="1603185096515" duration="689000" />
+      <workItem from="1603185096515" duration="5901000" />
     </task>
     <servers />
   </component>
@@ -147,30 +177,35 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="842" height="276" key="GridCell.Tab.0.bottom" timestamp="1603184978476">
+    <state width="893" height="199" key="GridCell.Tab.0.bottom" timestamp="1603198925417">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="842" height="276" key="GridCell.Tab.0.bottom/0.23.1920.1016@0.23.1920.1016" timestamp="1603184978476" />
-    <state width="842" height="276" key="GridCell.Tab.0.center" timestamp="1603184978475">
+    <state width="893" height="199" key="GridCell.Tab.0.bottom/0.23.1920.1016@0.23.1920.1016" timestamp="1603198925417" />
+    <state width="893" height="199" key="GridCell.Tab.0.center" timestamp="1603198925417">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="842" height="276" key="GridCell.Tab.0.center/0.23.1920.1016@0.23.1920.1016" timestamp="1603184978475" />
-    <state width="842" height="276" key="GridCell.Tab.0.left" timestamp="1603184978475">
+    <state width="893" height="199" key="GridCell.Tab.0.center/0.23.1920.1016@0.23.1920.1016" timestamp="1603198925417" />
+    <state width="893" height="199" key="GridCell.Tab.0.left" timestamp="1603198925416">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="842" height="276" key="GridCell.Tab.0.left/0.23.1920.1016@0.23.1920.1016" timestamp="1603184978475" />
-    <state width="842" height="276" key="GridCell.Tab.0.right" timestamp="1603184978476">
+    <state width="893" height="199" key="GridCell.Tab.0.left/0.23.1920.1016@0.23.1920.1016" timestamp="1603198925416" />
+    <state width="893" height="199" key="GridCell.Tab.0.right" timestamp="1603198925417">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="842" height="276" key="GridCell.Tab.0.right/0.23.1920.1016@0.23.1920.1016" timestamp="1603184978476" />
+    <state width="893" height="199" key="GridCell.Tab.0.right/0.23.1920.1016@0.23.1920.1016" timestamp="1603198925417" />
     <state x="816" y="170" key="SettingsEditor" timestamp="1603185138196">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
     <state x="816" y="170" key="SettingsEditor/0.23.1920.1016@0.23.1920.1016" timestamp="1603185138196" />
+    <state x="1117" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1603191651467">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="1117" y="248" width="670" height="676" key="search.everywhere.popup/0.23.1920.1016@0.23.1920.1016" timestamp="1603191651467" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1603184963541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
     <SUITE FILE_PATH="coverage/python$test2_variable.coverage" NAME="test2_variable Coverage Results" MODIFIED="1603184966553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
-    <SUITE FILE_PATH="coverage/python$test3_StandardDataType.coverage" NAME="test3_StandardDataType Coverage Results" MODIFIED="1603185146504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/python$test3_StandardDataType.coverage" NAME="test3_StandardDataType Coverage Results" MODIFIED="1603191740146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
+    <SUITE FILE_PATH="coverage/python$test4_operator.coverage" NAME="test4_operator Coverage Results" MODIFIED="1603192196118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
   </component>
 </project>
